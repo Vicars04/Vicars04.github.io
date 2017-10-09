@@ -1,5 +1,5 @@
 ---
-title: Yr 9 Blog 1
+title: FIRST BLOG
 layout: post
 author: tom.vicary
 permalink: /first-blog/
@@ -10,7 +10,7 @@ Welcome to my blog.
 
 In our first blogged lessons we learnt how to use Caesar cypher and many other methods of encryption. We also had to create our own code and using commands in sheets we had to create a way of deciding it quickly using a computer. For my code you have move everything across one to the right on a UK keyboard so if you wanted "r" then it would be “t”. 
 
-<iframe width="560" height="315" src="[https://drive.google.com/a/challoners.org/file/d/0BzPd4k4yunm-dzYyUHg2SnBZdWs/view?usp=sharing](https://drive.google.com/a/challoners.org/file/d/0BzPd4k4yunm-dzYyUHg2SnBZdWs/view?usp=sharing)" frameborder="0" allowfullscreen></iframe> <iframe width="560" height="315" src="[https://drive.google.com/a/challoners.org/file/d/0BzPd4k4yunm-d2QydUhCNF85MGc/view?usp=sharing](https://drive.google.com/a/challoners.org/file/d/0BzPd4k4yunm-d2QydUhCNF85MGc/view?usp=sharing)" frameborder="0" allowfullscreen></iframe>
+![image alt text]({{ site.url }}/public/TnpLl2FkaCT91Y1zg8ITtQ_img_0.png)
 
-These two pictures show the code used to encrypt and decrypt my message although it has to be inputted manually. I used the code =VLOOKUP for this.
+![image alt text]({{ site.url }}/public/TnpLl2FkaCT91Y1zg8ITtQ_img_1.png)These two pictures show the code used to encrypt and decrypt my message although it has to be inputted manually. I used the code =VLOOKUP for this.
 
