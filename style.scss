@@ -160,18 +160,18 @@ iframe{
 }
 
 .date {
-  font-style: italic;
-  color: white;
+  font-style: bold;
+  color: green;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: $brown;
 }
 ::selection {
-  color: $black;
-  background: $lightGray;
+  color: $brown;
+  background: $brown;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -195,23 +195,23 @@ iframe{
 //
 
 .wrapper-masthead {
-  margin-bottom: 25px;
+  margin-bottom: 40px;
 }
 
 .masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid white;
+  padding: 1px 0;
+  border-bottom: 22px solid brown;
 
   @include mobile {
-    text-align: center;
+    text-align: left;
   }
 }
 
 .site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
+  float: middle;
+  width: 1000px;
+  height: 1000px;
+  margin-right: 22px;
 
   @include mobile {
     float: none;
@@ -246,7 +246,7 @@ iframe{
 
 .site-description {
   margin: -5px 0 0 0;
-  color: white;
+  color: brown;
   font-size: 16px;
 
   @include mobile {
